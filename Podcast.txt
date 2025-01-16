@@ -1,0 +1,84 @@
+PROMPT PARA NOME DO PODCAST
+
+você é um roteirista de podcast e vamos criar um podcast sobre vegetarianismo para leigos e eu queria uma sugestão sua para criação de 03 nomes criativos para o podcast.
+
+O podcast vai focar em esclarecer os principais benefícios do vegetarianismo para a saúde e meio ambiente.
+
+{Regras}
+
+O nome deve ser enxuto, um nome e um subtítulo
+
+O nome deve chamar atenção para benefício do vegetarianismo para a saúde e meio ambiente.
+
+{Regras negativa}
+
+Não quero que o nome tenha palavras em inglês.
+
+RESULTADOS
+
+Aqui estão três sugestões de nomes criativos para o seu podcast:
+
+    Verde no Prato
+    Benefícios para a saúde e o planeta
+
+    Raízes Saudáveis
+    Como o vegetarianismo transforma seu corpo e o meio ambiente
+
+    Alimento Verde
+    Saúde e sustentabilidade em cada refeição
+
+Esses nomes são curtos, chamativos e deixam claro o foco do podcast tanto na saúde quanto no meio ambiente, com um toque de simplicidade e relevância.
+
+_________________________________________________________-
+
+EPISÓDIO DO PODCAST
+
+Você é um roteirista de podcast, e vamos criar um podcast sobre vegetarianismo para leigos cujo o nome é "Verde no Prato
+Benefícios para a saúde e o planeta", o formato do roteiro deve ser
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos de um youtuber focado em bem-estar
+no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre as proteínas de fonte vegetal
+no bloco [CURIOSIDADE 2] sobre como o vegetarianismo ajuda na economia de agua.
+no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Vanessa e esse foi o Verde no Prato dessa semana'
+use termos de fácil explicação
+O podcast vai ser apresentado somente por uma pessoa, chamada Vanessa
+O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+Não use muitos termos técnicos
+Não ultrapasse 3 minutos de duração
+
+RESULTADO:
+
+**Roteiro: Verde no Prato - Benefícios para a saúde e o planeta**
+
+---
+
+  
+Oi, pessoal! Tudo bem com vocês? Eu sou a Vanessa e no episódio de hoje do *Verde no Prato*, a gente vai conversar sobre como adotar o vegetarianismo pode ser um grande passo para melhorar sua saúde e ainda ajudar o planeta. Se você está curioso sobre o que realmente acontece no seu corpo e no nosso ambiente quando escolhemos alimentos vegetais, fica comigo até o final! Vamos lá? 
+Você sabia que as proteínas de origem vegetal são tão boas quanto as de origem animal? Pois é! Muitas pessoas acham que só quem come carne consegue ter proteína suficiente, mas isso não é verdade! Feijão, lentilha, grão-de-bico, quinoa... Todos esses alimentos são cheios de proteínas e ainda trazem fibras e nutrientes extras que ajudam o seu corpo a funcionar de forma mais saudável. Ou seja, você pode sim ser forte e saudável com uma alimentação 100% vegetal!  
+Agora, uma curiosidade bem legal: você sabia que o vegetarianismo pode ajudar a economizar muita água? Produzir carne exige um consumo altíssimo de água, enquanto a agricultura de plantas usa bem menos. Por exemplo, para produzir 1 kg de carne bovina, são necessários cerca de 15 mil litros de água! Já para cultivar 1 kg de arroz, por exemplo, são necessários apenas 2.500 litros. Imagina a diferença se a gente começar a consumir mais alimentos de origem vegetal? Isso faz uma grande diferença para o nosso planeta e para os recursos naturais! 
+E aí, gostou de aprender mais sobre os benefícios do vegetarianismo? Se você ficou com alguma dúvida ou quer saber mais, me manda uma mensagem! Eu sou Vanessa e esse foi o *Verde no Prato* dessa semana. Até a próxima, pessoal! Cuide de você e do nosso planeta!
+
+
+
+_________________________________
+
+
+CAPA DO PODCAST
+
+
+a podcaster young woman with long hair smiling with microphone, in a forest themed podcast studio, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic ,hyper realistic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2
+_______________________
+
+LINK PODCAST NOTION.SO
+
+https://www.notion.so/VERDE-NO-PRATO-Benef-cios-para-a-sa-de-e-o-planeta-17d41f9cc61580549073f51cdfdca64b?pvs=4
+
